@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>614436378455-jju9lm9no2uqhi0knip1pkrqetgocghs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.614436378455-jju9lm9no2uqhi0knip1pkrqetgocghs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0nc4xa-6Nr9DPkiJ4CMtQ2R4XTerrHD0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>614436378455</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anis-agwan.ios.Introtruce</string>
+	<key>PROJECT_ID</key>
+	<string>introtruce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>introtruce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:614436378455:ios:9617ae436ff3c342349012</string>
+</dict>
+</plist>
