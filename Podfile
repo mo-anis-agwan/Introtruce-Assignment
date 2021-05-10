@@ -10,6 +10,7 @@ pod 'XLPagerTabStrip', '~> 9.0'
 pod 'Firebase/Auth'
 pod 'Firebase/Firestore'
 pod 'Firebase/Storage'
+pod 'FirebaseFirestoreSwift'
 
 
 end
